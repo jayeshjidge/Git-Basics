@@ -1,0 +1,5 @@
+error.log
+*.log
+data/
+speed/new
+third.txt
