@@ -2,3 +2,4 @@ this is my first version 1
 making changes in file for commit 2 after initial commit
 git remote
 making changes to directly commit without putting this will into staging area
+new git push
